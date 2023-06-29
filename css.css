@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+
+
+*{
+   margin:0;
+   padding:0;
+   }
+   
+    body {
+         background:#000000;
+         
+         padding: 20px;
+           }
+   
+   
+   
+    
+img{ 
+    height: 25px;
+    width: auto;
+    margin-top: 50px;
+    margin-left:-80px; 
+    position:absolute;
+    
+
+}
+
+header{
+
+justify-content: space-between;
+
+}
+   
+   .ytl
+   {
+   font-size:40px;
+   padding:10px;
+   font-family:Oswald;
+   color:white;
+   font-weight:bold;
+   }
+   
+   .search{
+    margin-left:90px;
+    margin-right: 0px;
+    width:400px;
+    height:200px;
+    position:absolute;
+    justify-content:space-between;
+   padding-top: 20px;
+   padding-left: 30px;
+   
+   }
+   
+   input[type="text"]{
+   text-decoration:none;
+   width:600px;
+   height:40px;
+   border-radius:20px;
+   border:1px solid grey;
+   background-color:transparent;
+   margin-top: 25px;
+   position:relative;
+   
+   }
+   
+   form{
+   margin-left: 490px;
+
+   }
+   
+   
+   button[type="submit"]
+   {
+   height:42px;
+   width:36px;
+   border-radius:20px;
+   background-color:grey;
+   border:1px solid grey;
+   margin-left:610px;
+   margin-top:-40px;
+   margin-bottom:0px;
+   position:absolute;
+
+   }
+   
+   
+   
+   
+   
+   
+   .search{
+    margin-top:-50px;
+   
+   }
+   
+
+.hahah ul {
+  
+  position: absolute;
+justify-content: space-between;
+}
+
+.search p{
+
+text-decoration:none;
+color:aliceblue;
+font-family:Oswald;
+margin-top:30px;
+font-size: 35px;
+}
